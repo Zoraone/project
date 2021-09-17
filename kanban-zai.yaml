@@ -1,0 +1,20 @@
+Kanban-Zai:
+  name: betersaver
+  extends: https://github.com/Kanban-Zai/kbz-blue.git
+  values:
+    - growth from client acquisitions
+    - efficiency of client management
+  norms:
+    - weekly prioritizations
+    - no blame, no shame
+  roster:
+    - Zac Culpan
+    - Paul Sanderson|https://www.linkedin.com/in/paul-sanderson-27a6731a5/
+    - William Tokin-Howe|https://www.linkedin.com/in/william-tonkin-howe-1b57843/
+    - Peng Zhong
+    - Rupak Patel
+    - Tony Gurnick
+ outcomes:
+    - definition of done|accepted by product owner
+ journal:
+    - no consensus was involve in creating the original content of this file
